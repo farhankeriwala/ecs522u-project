@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ecs522u-project/static/css/main.62ac29c7.css",
+    "main.js": "/ecs522u-project/static/js/main.b61f6ff4.js",
+    "static/media/horizontal_logo.png": "/ecs522u-project/static/media/horizontal_logo.d546c9f0b74dd7c451eb.png",
+    "static/media/vertical_logo.png": "/ecs522u-project/static/media/vertical_logo.8bd23a3e14a1262e1e0d.png",
+    "static/media/13d.png": "/ecs522u-project/static/media/13d.9957456da0445490c376.png",
+    "static/media/13n.png": "/ecs522u-project/static/media/13n.9957456da0445490c376.png",
+    "static/media/09d.png": "/ecs522u-project/static/media/09d.7610299be6da6fba0d64.png",
+    "static/media/09n.png": "/ecs522u-project/static/media/09n.7610299be6da6fba0d64.png",
+    "static/media/11d.png": "/ecs522u-project/static/media/11d.34ba1304792a31b7d163.png",
+    "static/media/11n.png": "/ecs522u-project/static/media/11n.34ba1304792a31b7d163.png",
+    "static/media/01d.png": "/ecs522u-project/static/media/01d.b972dcf61eb381f03551.png",
+    "static/media/01n.png": "/ecs522u-project/static/media/01n.b972dcf61eb381f03551.png",
+    "static/media/10d.png": "/ecs522u-project/static/media/10d.f009e441a604361a2783.png",
+    "static/media/10n.png": "/ecs522u-project/static/media/10n.f009e441a604361a2783.png",
+    "static/media/02n.png": "/ecs522u-project/static/media/02n.a6d0b7d87d2022baaf47.png",
+    "static/media/50d.png": "/ecs522u-project/static/media/50d.2c0dd4e943186a115f3a.png",
+    "static/media/50n.png": "/ecs522u-project/static/media/50n.2c0dd4e943186a115f3a.png",
+    "static/media/04d.png": "/ecs522u-project/static/media/04d.15eb556cd941ec7fc2b4.png",
+    "static/media/04n.png": "/ecs522u-project/static/media/04n.15eb556cd941ec7fc2b4.png",
+    "index.html": "/ecs522u-project/index.html",
+    "main.62ac29c7.css.map": "/ecs522u-project/static/css/main.62ac29c7.css.map",
+    "main.b61f6ff4.js.map": "/ecs522u-project/static/js/main.b61f6ff4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62ac29c7.css",
+    "static/js/main.b61f6ff4.js"
+  ]
+}
